@@ -39,7 +39,7 @@ Open-source full-stack seed project coded in React and Django on top of a modern
 
 ## Start Flask API Server
 
-Simple starter built with Python / Flask-RestX / Sqlite3 and JWT Auth. The authentication flow is based on [json web tokens](https://jwt.io).
+Simple starter built with Python / DRF Library / Sqlite3 and JWT Auth. The authentication flow is based on [json web tokens](https://jwt.io).
 
 <br />
 
