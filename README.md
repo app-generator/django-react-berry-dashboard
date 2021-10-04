@@ -18,7 +18,7 @@ Open-source full-stack seed project coded in React and Django on top of a modern
 - [Django React Berry](https://appseed.us/product/django-react-berry-dashboard) - product page
 - [Django React Berry](https://django-react-berry-dashboard.appseed-srv1.com/) - LIVE Demo
 - [Django React Berry](https://docs.appseed.us/products/react/django-berry-dashboard) - product documentation
-- Download Backend: [Flask API Server 📥](https://github.com/app-generator/api-server-flask/archive/refs/heads/main.zip)
+- Download Backend: [Django API Server 📥](https://github.com/app-generator/api-server-django/archive/refs/heads/main.zip)
 - Donwnload Frontend: [React Berry Dashboard 📥](https://github.com/app-generator/react-berry-dashboard/archive/refs/heads/main.zip)  
 
 <br >
