@@ -25,7 +25,7 @@ Open-source full-stack seed project coded in React and Django on top of a modern
 
 > **Note**: This product can be used with other API Servers for a complete fullstack experience. **ALL API servers use an unified interface**
 
-- [Django API Server](https://github.com/app-generator/api-server-django) - open-source product
+- [Flask API Server](https://github.com/app-generator/api-server-flask) - open-source product
 - [Node JS API Server](https://github.com/app-generator/api-server-nodejs) - open-source product / Typescript / SQLite / TypeORM / Joy for validation
 - [Node JS API Server PRO](https://github.com/app-generator/api-server-nodejs-pro) - **commercial product**
     - SQLite / TypeORM / Joy / Docker
