@@ -37,7 +37,7 @@ Open-source full-stack seed project coded in React and Django on top of a modern
 
 <br />
 
-## Start Flask API Server
+## Start Django API Server
 
 Simple starter built with Python / DRF Library / Sqlite3 and JWT Auth. The authentication flow is based on [json web tokens](https://jwt.io).
 
