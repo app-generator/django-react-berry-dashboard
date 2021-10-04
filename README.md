@@ -9,7 +9,7 @@ Open-source full-stack seed project coded in React and Django on top of a modern
 - Modern aesthetics UI design: Berry Dashboard
 - React, Redux, Redux-persist
 - Authentication: JWT Login/Register/Logout
-- Backend: [Flask API Server](https://github.com/app-generator/api-server-flask) 
+- Backend: [Django API Server](https://github.com/app-generator/api-server-django) 
 
 <br />
 
