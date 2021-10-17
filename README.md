@@ -1,25 +1,32 @@
 # [Django React Berry](https://appseed.us/product/django-react-berry-dashboard)
 
-Open-source full-stack seed project coded in React and Django on top of a modern design from CodedThemes: **Berry Dashboard**. The **[Django React](https://appseed.us/product/flask-react-berry-dashboard)** codebase is already configured with an SQLite database, API (via **DRF**), and JWT token-based authentication flow. **Berry Dashboard** is an open-source **React Dashboard** that provides a colorful and modern design styled with M-UI, the most popular material components library for React.
-
-<br />
+Open-source full-stack seed project coded in React and Django on top of a modern design from CodedThemes: **Berry Dashboard**. The **[Django React](https://appseed.us/product/django-react-berry-dashboard)** codebase is already configured with an SQLite database, API (via **DRF**), and JWT token-based authentication flow. **Berry Dashboard** is an open-source **React Dashboard** that provides a colorful and modern design styled with M-UI, the most popular material components library for React.
 
 > Features
 
-- Modern aesthetics UI design: Berry Dashboard
+- Modern aesthetics UI design - Designed by *CodedThemes*
 - React, Redux, Redux-persist
 - Authentication: JWT Login/Register/Logout
-- Backend: [Django API Server](https://github.com/app-generator/api-server-django) 
-
-<br />
+- Full-stack ready using a **Django API Server** (open-source project) - Server Features
+  - Django / DRF / SQLite3 - a simple, easy to use backend
+  - Authentication with JWT (login, logout, register)
+  - Docker, Unitary tests
 
 > Links
 
 - [Django React Berry](https://appseed.us/product/django-react-berry-dashboard) - product page
 - [Django React Berry](https://django-react-berry-dashboard.appseed-srv1.com/) - LIVE Demo
-- [Django React Berry](https://docs.appseed.us/products/react/django-berry-dashboard) - product documentation
 - Download Backend: [Django API Server 📥](https://github.com/app-generator/api-server-django/archive/refs/heads/main.zip)
 - Donwnload Frontend: [React Berry Dashboard 📥](https://github.com/app-generator/react-berry-dashboard/archive/refs/heads/main.zip)  
+* Free Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+* Related Products:
+  - **PRO Version**: [Full-Stack React Berry PRO](https://appseed.us/full-stack/react-berry-dashboard) 
+  - Node JS API Backend - [Django React Berry](https://appseed.us/product/react-node-js-berry-dashboard) - `open-source` project
+  - Flask API Backend - [Flask React Berry](https://appseed.us/product/flask-react-berry-dashboard) - `open-source` project
+
+<br >
+
+![Django React Berry - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/137620600-49dc025b-6637-4228-8bcf-b70149c26f9a.gif)
 
 <br >
 
@@ -30,10 +37,6 @@ Open-source full-stack seed project coded in React and Django on top of a modern
 - [Node JS API Server PRO](https://github.com/app-generator/api-server-nodejs-pro) - **commercial product**
     - SQLite / TypeORM / Joy / Docker
     - MongoDB / Mongoose / Joy Docker (separate branch, same project)
-
-<br />
-
-![Django React Berry - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/124934742-aa392300-e00d-11eb-83bf-28d8b8704ec8.png)
 
 <br />
 
