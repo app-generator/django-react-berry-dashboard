@@ -7,7 +7,7 @@ Open-source full-stack seed project coded in React and Django on top of a modern
 - Modern aesthetics UI design - Designed by *CodedThemes*
 - React, Redux, Redux-persist
 - Authentication: JWT Login/Register/Logout
-- Full-stack ready using a **Django API Server** (open-source project) - Server Features
+- **Full-stack Ready** using a **Django API Server** (open-source project) - Server Features
   - Django / DRF / SQLite3 - a simple, easy to use backend
   - Authentication with JWT (login, logout, register)
   - Docker, Unitary tests
