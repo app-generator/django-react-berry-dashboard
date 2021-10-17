@@ -21,7 +21,7 @@ Open-source full-stack seed project coded in React and Django on top of a modern
 * Free Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 * Related Products:
   - **PRO Version**: [Full-Stack React Berry PRO](https://appseed.us/full-stack/react-berry-dashboard) 
-  - Node JS API Backend - [Django React Berry](https://appseed.us/product/react-node-js-berry-dashboard) - `open-source` project
+  - Node JS API Backend - [Node JS React Berry](https://appseed.us/product/react-node-js-berry-dashboard) - `open-source` project
   - Flask API Backend - [Flask React Berry](https://appseed.us/product/flask-react-berry-dashboard) - `open-source` project
 
 <br >
